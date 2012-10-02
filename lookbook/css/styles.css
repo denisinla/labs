@@ -1,0 +1,99 @@
+body { padding: 0; margin: 0; background: #fff; font-family: "Lucida Grande", Helvetica, Arial,Verdana, sans-serif; color: #444340; }
+h1 { font-size: 1.3em; padding: 15px 10px; margin: 0; }
+img { border: none; }
+a { color: #444340; outline: 0;}
+
+#Header { background: transparent; height: 61px; padding: 0; }
+#Header img { display: block; margin: 0 auto 0; }
+
+#MainContent { background: transparent;padding-top: 10px;padding-bottom: 0;}
+#Footer { padding: 10px; border-top: none; } 
+
+#SocialLinks { padding: 10px 0 0 0; }
+#SocialLinks:after { clear: both; content: "."; display: block; height: 0; visibility: hidden;}
+#SocialLinks a { display: block; float: left; padding-right: 15px;}
+/* Gallery Styles */
+div.gallery-row{}
+div.gallery-row:after {clear: both; content: "."; display: block; height: 0; visibility: hidden;}
+div.gallery-item {float: left; width: 192px; height: 200px; margin: 0 0 65px 14px;padding:0 0 0 0;}
+div.gallery-item a {display: block;margin:  0;border: none;}
+div.gallery-item img {display: block; width: 100%; height: auto;box-shadow: 1px 1px 1px #c5c5c5;}
+/* End Gallery Styles */
+footer{margin:0 auto; width: 300px; text-align: center;}
+
+/* Log In Styles */
+.collection-wrapper{margin: 0 auto; width: 220px; height: 600px;}
+.collection-content{float:left; margin:0 0 0 0; padding:0 0 0 0; width: 100%; text-align: center; font: 12px Arial,Verdana,sans-serif; color: #808080;}
+/* iPad Input Styles */
+input[type="submit"] {
+    background: #CCC;
+	color: #999;
+    width: 80px;
+    padding: 9px;
+    letter-spacing: 1px;
+    border: none;
+    color: #062b45;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -webkit-appearance: none;
+}
+input[type="password"]{
+    background: #f1f1f1;
+    width: 100px;
+    padding: 9px;
+    letter-spacing: 1px;
+    border: none;
+    color: #999;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -webkit-appearance: none;
+	border: 1px solid #ccc;
+}
+/* Log In Header Logo */
+#index_logo{float:left;margin:150px 0 0 0;background: url('../images/adam_logo.gif') no-repeat;display:block;width:220px;height:81px;}
+#book_links{float:left;margin:69px 0 0 0;padding:0 0 0 0;clear: both;width:100%;color:#808080;line-height: 22px;letter-spacing: 2px;}
+#book_links a, #book_links a:active, #book_links a:visited{color:#808080;text-decoration:none;}
+#book_links a:hover{color:#032b44;text-decoration:underline;}
+/* Book Link Inputs */
+#book_links label{float:left;margin:0 0 0 6px;padding:0 0 0 0;text-align:left;font-size: 10px;}
+/* Load Text */
+#load{float: left;margin: 0 auto;padding: 0 0 0 0;width: 100%;text-align: center;width: 100%;height: 100%;background: #fff;}
+/* Loading Animation */
+div.spinner {
+      position: relative;
+      width: 54px;
+      height: 54px;
+      display: inline-block;
+    }
+    
+    div.spinner div {
+      width: 12%;
+      height: 26%;
+      background: #000;
+      position: absolute;
+      left: 44.5%;
+      top: 37%;
+      opacity: 0;
+      -webkit-animation: fade 1s linear infinite;
+      -webkit-border-radius: 50px;
+      -webkit-box-shadow: 0 0 3px rgba(0,0,0,0.2);
+    }
+	div.spinner div.bar1 {-webkit-transform:rotate(0deg) translate(0, -142%); -webkit-animation-delay: 0s;}    
+	    div.spinner div.bar2 {-webkit-transform:rotate(30deg) translate(0, -142%); -webkit-animation-delay: -0.9167s;}
+	    div.spinner div.bar3 {-webkit-transform:rotate(60deg) translate(0, -142%); -webkit-animation-delay: -0.833s;}
+	    div.spinner div.bar4 {-webkit-transform:rotate(90deg) translate(0, -142%); -webkit-animation-delay: -0.75s;}
+	    div.spinner div.bar5 {-webkit-transform:rotate(120deg) translate(0, -142%); -webkit-animation-delay: -0.667s;}
+	    div.spinner div.bar6 {-webkit-transform:rotate(150deg) translate(0, -142%); -webkit-animation-delay: -0.5833s;}
+	    div.spinner div.bar7 {-webkit-transform:rotate(180deg) translate(0, -142%); -webkit-animation-delay: -0.5s;}
+	    div.spinner div.bar8 {-webkit-transform:rotate(210deg) translate(0, -142%); -webkit-animation-delay: -0.41667s;}
+	    div.spinner div.bar9 {-webkit-transform:rotate(240deg) translate(0, -142%); -webkit-animation-delay: -0.333s;}
+	    div.spinner div.bar10 {-webkit-transform:rotate(270deg) translate(0, -142%); -webkit-animation-delay: -0.25s;}
+	    div.spinner div.bar11 {-webkit-transform:rotate(300deg) translate(0, -142%); -webkit-animation-delay: -0.1667s;}
+	    div.spinner div.bar12 {-webkit-transform:rotate(330deg) translate(0, -142%); -webkit-animation-delay: -0.0833s;}
+
+	     @-webkit-keyframes fade {
+	      from {opacity: 1;}
+	      to {opacity: 0.25;}
+	    }   

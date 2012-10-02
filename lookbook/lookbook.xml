@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lookbook brand="ADAM">
+	<book title="HOLIDAY 2011" folder="2011holiday">
+		<look chapter="Cover" imgfile="cover.jpg" />
+		<look chapter="Holiday" imgfile="H111MT902.jpg" style="H111MT902" color="Silver, Gold" price="270/595" desc="Long Coat" fabricgroup="Metallic Tweed" sizes="XS-XL" />
+		<look chapter="Holiday" imgfile="H111MT405.jpg" style="H111MT405" color="Silver, Gold" price="148/325" desc="Short Flare Skirt" fabricgroup="Metallic Tweed" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111CB901.jpg" style="H111CB901" color="Black, Vermillion" price="270/595" desc="Car Coat" fabricgroup="Cashmere Blend Melton" sizes="XS-XL" />
+		<look chapter="Holiday" imgfile="H111FR901.jpg" style="H111FR901" color="Black, Silver Fox" price="1,180/2,595" desc="Jacket" fabricgroup="Fur" sizes="XS-XL" />
+		<look chapter="Holiday" imgfile="H111FR111.jpg" style="H111FR111" color="Black, Silver Fox" price="180/395" desc="Hat" fabricgroup="Fur" sizes="One Size" />
+		<look chapter="Holiday" imgfile="H111FR115.jpg" style="H111FR115" color="Black, Silver Fox" price="407/895" desc="Shrug" fabricgroup="Fur" sizes="One Size" />
+		<look chapter="Holiday" imgfile="H111SC106.jpg" style="H111SC106" color="Porcelain, Black, Vermillion, Shocking Pink" price="148/325" desc="Long Sleeve Shirt with Diagonal Folds" fabricgroup="Solid Chiffon" sizes="XS-XL" />
+		<look chapter="Holiday" imgfile="H111SC721.jpg" style="H111SC721" color="Porcelain, Black, Vermillion, Shocking Pink" price="211/465" desc="Strapless Biased Tiered Party Dress" fabricgroup="Solid Chiffon" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111SC113.jpg" style="H111SC113" color="Porcelain, Black, Vermillion, Shocking Pink" price="120/265" desc="Sleeveless V Top with Knife Pleats" fabricgroup="Solid Chiffon" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111SC403.jpg" style="H111SC403" color="Porcelain, Black" price="202/445" desc="Long Skirt with Knife Pleats " fabricgroup="Solid Chiffon" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111SC726.jpg" style="H111SC726" color="Porcelain, Black, Vermillion, Shocking Pink" price="316/695" desc="Long V Dress with Knife Pleats" fabricgroup="Solid Chiffon" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111PS103.jpg" style="H111PS103" color="Vermillion/Shocking Pink, Black/Porcelain" price="89/195" desc="Scoop Neck Tank" fabricgroup="Tiger Floral Patterned Satin" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111PS702.jpg" style="H111PS702" color="Vermillion/Shocking Pink, Black/Porcelain" price="180/395" desc="Mod Deep V Dress" fabricgroup="Tiger Floral Patterned Satin" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111PS708.jpg" style="H111PS708" color="Vermillion/Shocking Pink, Black/Porcelain" price="202/445" desc="Long Sleeve Dress" fabricgroup="Tiger Floral Patterned Satin" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111PT716.jpg" style="H111PT716" color="Black, Dark Charcoal" price="180/395" desc="Seamed Dress with Neckline Embellishment" fabricgroup="Double Knit Ponte" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111PT505.jpg" style="H111PT505" color="Black, Dark Charcoal" price="102/225" desc="Pencil Pant" fabricgroup="Double Knit Ponte" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111PT802.jpg" style="H111PT802" color="Black, Dark Charcoal" price="134/295" desc="Cropped Tuxedo Jacket" fabricgroup="Double Knit Ponte" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111PS112.jpg" style="H111PS112" color="Gold/Black" price="111/245" desc="T-Back Tank" fabricgroup="Foil Printed Sequin" sizes="XS-XL" />
+		<look chapter="Holiday" imgfile="H111PS724.jpg" style="H111PS724" color="Gold/Black" price="225/495" desc="Long Sleeve Fitted Dress" fabricgroup="Foil Printed Sequin" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111BC803.jpg" style="H111BC803" color="Black/Porcelain" price="180/395" desc="One Button Blazer" fabricgroup="Boucle Tweed" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111BC508.jpg" style="H111BC508" color="Black/Porcelain" price="180/395" desc="Wide Leg Pant" fabricgroup="Boucle Tweed" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111BC401.jpg" style="H111BC401" color="Black/Porcelain" price="148/325" desc="Short Skirt" fabricgroup="Boucle Tweed" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111BC709.jpg" style="H111BC709" color="Black/Porcelain" price="202/445" desc="Classic Deep V Dress" fabricgroup="Boucle Tweed" sizes="0-12" />	
+		<look chapter="Holiday" imgfile="H111SL116.jpg" style="H111SL116" color="Vermillion, Black" price="170/375" desc="Short Sleeve Top" fabricgroup="Lace" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111SL728.jpg" style="H111SL728" color="Vermillion/Nude, Black/Nude" price="452/995" desc=" Strapless Lace Column Dress" fabricgroup="Lace" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111DG117.jpg" style="H111DG117" color="Porcelain, Black, Vermillion, Shocking Pink" price="134/295" desc="Long Sleeve Button Down" fabricgroup="Double Face Georgette" sizes="XS-XL" />
+		<look chapter="Holiday" imgfile="H111DG118.jpg" style="H111DG118" color="Porcelain, Black, Vermillion, Shocking Pink" price="80/175" desc="Scoop Neck Tank" fabricgroup="Double Face Georgette" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111DG102.jpg" style="H111DG102" color="Porcelain, Black, Vermillion, Shocking Pink" price="111/245" desc="Short Sleeve Top" fabricgroup="Double Face Georgette" sizes="XS-XL" />
+		<look chapter="Holiday" imgfile="H111DG504.jpg" style="H111DG504" color="Black, Vermillion" price="134/295" desc="Wide Leg Pleated Pant" fabricgroup="Double Face Georgette" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111WC801.jpg" style="H111WC801" color="Black, Vermillion" price="180/395" desc="Cropped Tuxedo Jacket" fabricgroup="Wool Cashmere Suiting" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111WC507.jpg" style="H111WC507" color="Black, Porcelain" price="148/325" desc="Wide Leg Tuxedo Pant" fabricgroup="Wool Cashmere Suiting" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111WC702.jpg" style="H111WC702" color="Black, Porcelain" price="180/395" desc="Mod Deep V Dress" fabricgroup="Wool Cashmere Suiting" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111HC109.jpg" style="H111HC109" color="Porcelain, Black" price="157/345" desc="Tank with Embellishment" fabricgroup="Charmeuse with Embellishment" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111HC714.jpg" style="H111HC714" color="Porcelain, Black" price="248/545" desc="Short Sleeve V Dress with Embellishment" fabricgroup="Charmeuse with Embellishment" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111LC116.jpg" style="H111LC116" color="Gold, Silver" price="193/425" desc="Short Sleeve Top" fabricgroup="Metallic Lace" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111LC701.jpg" style="H111LC701" color="Gold, Silver" price="452/995" desc="Short Sleeve Lace &amp; Tweed Dress" fabricgroup="Metallic Lace" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111BD713.jpg" style="H111BD713" color="Gold Multi" price="680/1,495" desc="Strapless Embellished Dress" fabricgroup="Allover Embellishment" sizes="0-12" />
+		<look chapter="Holiday" imgfile="H111WJ110.jpg" style="H111WJ110" color="Black, Charcoal" price="89/195" desc="Dolman Sleeve Top" fabricgroup="Lightweight Textured Jersey" sizes="XS-XL" />
+		<look chapter="Holiday" imgfile="H111WJ114.jpg" style="H111WJ114" color="Black, Charcoal" price="89/195" desc="Long Sleeve Top with Back Zip" fabricgroup="Lightweight Textured Jersey" sizes="XS-XL" />
+		<look chapter="Holiday" imgfile="H111MW602.jpg" style="H111MW602" color="Black, Vermillion, Charcoal Melange" price="148/325" desc="V-Neck Double Pocket Cardigan" fabricgroup="Merino Wool" sizes="XS-XL" />
+		<look chapter="Holiday" imgfile="H111MW604.jpg" style="H111MW604" color="Black, Vermillion, Charcoal Melange" price="134/295" desc="Long Sleeve Sweater" fabricgroup="Merino Wool" sizes="XS-XL" />
+		<look chapter="Holiday" imgfile="H111MW608.jpg" style="H111MW608" color="Black, Vermillion, Charcoal Melange" price="193/425" desc="Cowl Neck Sweater Dress" fabricgroup="Merino Wool" sizes="XS-XL" />
+		<look chapter="Holiday" imgfile="noImage.jpg" style="H111WJ119" color="Black, Charcoal" price="89/195" desc="Sleeveless Drape Neck Top" fabricgroup="Lightweight Textured Jersey" sizes="XS-XL" />
+		<look chapter="Holiday" imgfile="blank.jpg" />
+	</book>
+</lookbook>
